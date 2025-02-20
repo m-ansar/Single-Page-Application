@@ -1,0 +1,35 @@
+.pricing-card {
+  max-width: 250px;
+  height: 500px;
+  background-color: #242424;
+  border-radius: 5px;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 20px;
+}
+
+.icon {
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+.title {
+  font-size: 35;
+  font-weight: bold;
+}
+
+.price {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.pr-month {
+  font-size: 13px;
+}
+
+.detail p {
+  font-size: 13px;
+  margin: 15px 0px 20px;
+  justify-content: center;
+  color: rgb(179, 179, 179);
+}
